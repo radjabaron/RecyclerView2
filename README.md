@@ -5,11 +5,12 @@
 
 - Screen Shoot 1
 
-  ![recyclerview2_2](https://cloud.githubusercontent.com/assets/22133450/20005001/11678ab4-a2c2-11e6-847e-c453eae01ac0.jpg)
-
+ ![recyclerview2_1](https://cloud.githubusercontent.com/assets/22133450/20005002/11712164-a2c2-11e6-9466-c86af756bda2.png)
+   
 - Screen Shoot 2
 
-  ![recyclerview2_1](https://cloud.githubusercontent.com/assets/22133450/20005002/11712164-a2c2-11e6-9466-c86af756bda2.png)
+ ![recyclerview2_2](https://cloud.githubusercontent.com/assets/22133450/20005001/11678ab4-a2c2-11e6-847e-c453eae01ac0.jpg)
+
 
 <h3>3. Identitas : </h3>
 - Nama : Baron Jahzyradja
